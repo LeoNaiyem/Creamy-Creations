@@ -1,0 +1,17 @@
+.container {
+}
+.row {
+}
+.col-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row wrap;
+  width: 1100px;
+  background: skyblue;
+  height: 100vh;
+  margin: 0 auto;
+}
+.clo {
+  width: 100%;
+}
